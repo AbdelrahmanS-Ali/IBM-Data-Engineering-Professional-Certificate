@@ -1,1 +1,1 @@
-This repository contains the Python labs I developed in the IBM Data Engineering Professional Certificate provided by Coursera
+This repository contains the solution of the assignments in the IBM Data Engineering Professional Certificate provided by Coursera
